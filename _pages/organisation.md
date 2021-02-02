@@ -9,8 +9,6 @@ header:
   overlay_image: /assets/images/bc.png
 ---
 
-The 1st Workshop on Human Evaluation in NLP will be held online, virtually. 
-
 
 ## Organisers
 
