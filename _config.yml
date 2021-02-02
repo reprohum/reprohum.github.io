@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "1st Workshop on Human Evaluation in NLP"
+title                    : "ReproHum"
 title_separator          : "–"
-name                     : "the HumEval organisers"
-description              : "1st Workshop on Human Evaluation in NLP"
+name                     : "the ReproHum organisers"
+description              : "ReproHum"
 url                      : "https://reprohum.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
