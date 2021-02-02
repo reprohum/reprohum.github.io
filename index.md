@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Human Evaluation Workshop in NLP "
+excerpt: "ReproHum "
 layout: single
 classes: wide
 header:
