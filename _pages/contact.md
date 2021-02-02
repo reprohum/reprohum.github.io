@@ -6,7 +6,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/title_wordcloud.png
+  overlay_image: /assets/images/bc.png
 ---
 
 <style>.athere:before {content: '@'; }</style>
@@ -22,4 +22,4 @@ function init(){
 }
 window.addEventListener("load", init, false);
 </script>
-For questions and comments regarding the workshop please contact [the organizers](/organisation) at <span class="contactaddr">repro.hum.eval<span class="athere"></span>gmail.com</span>. 
+For questions and comments regarding the project please contact [the organizers](/organisation) at <span class="contactaddr">repro.hum.eval<span class="athere"></span>gmail.com</span>. 
