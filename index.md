@@ -20,14 +20,6 @@ The ReproHum project aims improve the current reproducibility situation in NLP. 
 * Provide guidance on reproducibility to the NLP community and build a concensus within the community on how NLP as a field can continue to improve in this regard.
 
 
-## Organisers
-[Anya Belz](https://www.adaptcentre.ie/experts/anya-belz):  Principal Investigator - ADAPT Research Centre, Dublin City University; University of Aberdeen
-
-[Ehud Reiter](https://www.abdn.ac.uk/ncs/profiles/e.reiter):  Co-Investigator - University of Aberdeen
-
-[Craig Thomson](https://www.abdn.ac.uk/ncs/profiles/c.thomson):  Research Assistant - University of Aberdeen
-
-
 ## Project overview
 The project will take place over the 18 months from April 2022.  There are six work packages.
 
