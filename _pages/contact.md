@@ -22,8 +22,6 @@ function init(){
 }
 window.addEventListener("load", init, false);
 </script>
-TODO
-
 ## ReproHum team members
 [Anya Belz](https://www.adaptcentre.ie/experts/anya-belz):  Principal Investigator - ADAPT Research Centre, Dublin City University; University of Aberdeen
 
