@@ -1,5 +1,5 @@
 ---
-title: "Organisation"
+title: "Organisers"
 permalink: /organisation/
 layout: single
 classes: wide
@@ -11,5 +11,8 @@ header:
 
 
 ## Organisers
+[Anya Belz](https://www.adaptcentre.ie/experts/anya-belz):  Principal Investigator - ADAPT Research Centre, Dublin City University; University of Aberdeen
 
-tba
+[Ehud Reiter](https://www.abdn.ac.uk/ncs/profiles/e.reiter):  Co-Investigator - University of Aberdeen
+
+[Craig Thomson](https://www.abdn.ac.uk/ncs/profiles/c.thomson):  Research Assistant - University of Aberdeen
