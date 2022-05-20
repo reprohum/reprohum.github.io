@@ -43,7 +43,8 @@ To obtain a single score estimating the degree of reproducibility of a given sys
 
 
 ## ReproHum project & pre-project
-* Anya Belz. 2021. [Quantifying reproducibility in NLP and ML](https://dblp.uni-trier.de/rec/journals/corr/abs-2109-01211.html?view=bibtex). CoRR, abs/2109.01211.
+* Anya Belz, Maja Popović, and Simon Mille. 2022.  [Quantified reproducibility assessment of nlp results](https://arxiv.org/abs/2204.05961)
+
 * Anya Belz, Shubham Agarwal, Anastasia Shimorina, and Ehud Reiter. 2021a. [A systematic review of re-producibility research in natural language processing](https://aclanthology.org/2021.eacl-main.29).  In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, pages 381–393, Online.  Association for Computational Linguistics.
 
 
