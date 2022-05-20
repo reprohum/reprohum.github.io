@@ -28,3 +28,5 @@ window.addEventListener("load", init, false);
 [Ehud Reiter](https://www.abdn.ac.uk/ncs/profiles/e.reiter):  Co-Investigator - University of Aberdeen
 
 [Craig Thomson](https://www.abdn.ac.uk/ncs/profiles/c.thomson):  Research Assistant - University of Aberdeen
+
+[Maja Popović](https://www.adaptcentre.ie/experts/maja-popovic):  Associated researcher - ADAPT Research Centre, Dublin City University
