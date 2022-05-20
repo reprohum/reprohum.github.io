@@ -29,4 +29,4 @@ window.addEventListener("load", init, false);
 
 [Craig Thomson](https://www.abdn.ac.uk/ncs/profiles/c.thomson):  Research Assistant - University of Aberdeen
 
-[Maja Popović](https://www.adaptcentre.ie/experts/maja-popovic):  Associated researcher - ADAPT Research Centre, Dublin City University
+[Maja Popović](https://www.adaptcentre.ie/experts/maja-popovic):  Associated Researcher - ADAPT Research Centre, Dublin City University
