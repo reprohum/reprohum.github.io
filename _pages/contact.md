@@ -6,7 +6,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/bc.png
+  overlay_image: /assets/images/reprohum_banner_small.jpg
 ---
 
 <style>.athere:before {content: '@'; }</style>
