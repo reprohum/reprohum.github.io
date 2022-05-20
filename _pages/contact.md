@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Project Team"
 permalink: /contact/
 layout: single
 classes: wide
