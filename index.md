@@ -39,16 +39,20 @@ Partner labs will run reproductions of prior results from a selection of papers.
 
 
 ### Quantified Reproducibility Assessment
-To obtain a single score estimating the degree of reproducibility of a given system and evaluation measure we will carry out a [quantified reproducibility assessment](https://arxiv.org/abs/2204.05961).  We will calculate the coefficient of variation with adjustment for small sample size.  Code implementation can be found [here](https://github.com/asbelz/coeff-var)
+To obtain a single score estimating the degree of reproducibility of a given system and evaluation measure we will carry out a quantified reproducibility assessment (Belz, 2021).  We will calculate the coefficient of variation with adjustment for small sample size.  Code implementation can be found [here](https://github.com/asbelz/coeff-var)
 
 
-## ReproHum Papers
-**Announcement**: More information soon.
-{: .notice--danger}
-
-## Other relevant papers
-**Announcement**: More information soon.
-{: .notice--danger}
+## ReproHum project & pre-project
+* Anya Belz. 2021. [Quantifying reproducibility in NLP and ML](https://dblp.uni-trier.de/rec/journals/corr/abs-2109-01211.html?view=bibtex). CoRR, abs/2109.01211.
+* Anya Belz, Shubham Agarwal, Anastasia Shimorina, and Ehud Reiter. 2021a. [A systematic review of re-producibility research in natural language processing](https://aclanthology.org/2021.eacl-main.29).  In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, pages 381–393, Online.  Association for Computational Linguistics.
 
 
+## Other interesting papers on reproduction
 
+* Anya Belz, Anastasia Shimorina, Shubham Agarwal, and Ehud Reiter. 2021b.  [The ReproGen shared task on reproducibility of human evaluations in NLG: Overview and results](https://aclanthology.org/2021.inlg-1.24). In Proceedings of the 14th International Conference on Natural Language Generation, pages 249–258, Aberdeen, Scotland, UK.  Association for Computational Linguistics.
+
+* Margot Mieskes, Karën Fort, Aurélie Névéol, Cyril Grouin, and Kevin Cohen. 2019. [Community perspective on replicability in natural language processing](https://aclanthology.org/R19-1089). In Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2019), pages 768–775, Varna, Bulgaria.  INCOMA Ltd.
+
+* Monya Baker. 2016. [Is there a reproducibility crisis?](https://www.nature.com/articles/533452a)  Nature, 533:452–454
+
+* Open Science Collaboration. 2015.  [Estimating the reproducibility of psychological science](https://www.science.org/doi/10.1126/science.aac4716), 349(6251).
