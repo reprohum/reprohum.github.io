@@ -47,7 +47,7 @@ Partner labs will run reproductions of prior results from a selection of papers.
 
 
 ### Quantified Reproducibility Assessment
-To obtain a single score estimating the degree of reproducibility of a given system and evaluation measure we will carry out a quantified reproducibility assessment (Belz, 2021).  We will calculate the coefficient of variation with adjustment for small sample size.  Code implementation can be found [here](https://github.com/asbelz/coeff-var) -->
+To obtain a single score estimating the degree of reproducibility of a given system and evaluation measure we will carry out a quantified reproducibility assessment (Belz, 2021).  We will calculate the coefficient of variation with adjustment for small sample size.  Code implementation can be found [here](https://github.com/asbelz/coeff-var) 
 
 
 ## ReproHum project & pre-project
@@ -65,3 +65,5 @@ To obtain a single score estimating the degree of reproducibility of a given sys
 * Monya Baker. 2016. [Is there a reproducibility crisis?](https://www.nature.com/articles/533452a)  Nature, 533:452–454
 
 * Open Science Collaboration. 2015.  [Estimating the reproducibility of psychological science](https://www.science.org/doi/10.1126/science.aac4716), 349(6251).
+
+-->
