@@ -1,5 +1,5 @@
 ---
-title: "Survey"
+title: "The ReproHum Survey"
 permalink: /survey/
 layout: single
 classes: wide
