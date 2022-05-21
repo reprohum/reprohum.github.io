@@ -10,7 +10,12 @@ header:
   overlay_image: /assets/images/reprohum_banner_orig.jpg
 ---
 
-Announcement: More information soon. {: .notice--danger}
+<!-- # The ReproHum Survey of NLP and ML researchers' experience and views of reproducibility
+We are currently running a survey of NLP and ML researchers' experience and views of reproducibility.
+
+The survey can be taken [here](https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ/closedform). -->
+
+# ReproHum Project
 
 The key goals of the ReproHum project are the development of a methodological framework for testing the reproducibility of human evaluations in NLP, and of a multi-lab paradigm for carrying out such tests in practice, carrying out the first study of this kind in NLP.
 
