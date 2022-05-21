@@ -23,7 +23,7 @@ Funded by EPSRC UK under grant No. [EP/V05645X/1](https://gow.epsrc.ukri.org/NGB
 Take part [here](https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ).
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ">
-  <img src="/assets/images/survey_flyer.png" width="400"/>
+  <img src="/assets/images/ReproHum Survey Flier.jpeg" width="400"/>
 </a>
 
 
