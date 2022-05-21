@@ -17,7 +17,7 @@ We are currently running a survey of NLP and ML researchers' experience and view
 
 The survey can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ).
 
-## ReproHum Project
+## Project Goals
 
 The key goals of the ReproHum project are the development of a methodological framework for testing the reproducibility of human evaluations in NLP, and of a multi-lab paradigm for carrying out such tests in practice, carrying out the first study of this kind in NLP.
 
