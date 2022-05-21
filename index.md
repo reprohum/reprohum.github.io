@@ -12,22 +12,20 @@ header:
 
 # The ReproHum Project
 
-## The ReproHum Survey of NLP and ML researchers' experience and views of reproducibility
-We are currently running a survey of NLP and ML researchers' experience and views of reproducibility and would be most grateful if you can spare a short amount of time to take it.
-
-The survey can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ).
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ">
-  <img src="/assets/images/survey_flyer.png" />
-</a>
-
-## Project Goals
-
 The key goals of the ReproHum project are the development of a methodological framework for testing the reproducibility of human evaluations in NLP, and of a multi-lab paradigm for carrying out such tests in practice, carrying out the first study of this kind in NLP.
 
 Over the course of the project, we will (i) systematically diagnose the extent of the human evaluation reproducibility problem in NLP and survey related current work to address it; (ii) develop the theoretical and methodological underpinnings for reproducibility testing in NLP; (iii) test the suitability of the shared-task paradigm (uniformly popular across NLP fields) for reproducibility testing; (iv) create a design for multi-test reproducibility studies, and run the ReproHum study, an international large-scale multi-lab effort conducting 50+ individual, coordinated reproduction attempts on human evaluations in NLP from the past 10 years; and (v) nurture and build international consensus regarding how to address the reproducibility crisis, via technical meetings and growing an international network of researchers.
 
 Funded by [EPSRC grant EP/V05645X/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V05645X/1)
+
+## The ReproHum Survey of NLP and ML researchers' experience and views of reproducibility
+
+Take part [here](https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ).
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ">
+  <img src="/assets/images/survey_flyer.png" width="200"/>
+</a>
+
 
 
 <!-- 
