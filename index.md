@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "ReproHum "
+excerpt: "Investigating Reproducibility of Human Evaluations in NLP "
 layout: single
 classes: wide
 header:
