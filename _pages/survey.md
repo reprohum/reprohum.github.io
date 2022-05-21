@@ -23,6 +23,12 @@ function init(){
 window.addEventListener("load", init, false);
 </script>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ">
-  <img src="/assets/images/survey_flyer.png" />
-</a>
+## The ReproHum Survey of NLP and ML Researchers' Experience and Views of Reproducibility
+
+We are currently running the ReproHum Survey which takes between 5-10 minutes to complete depending on answers.
+
+Please take part if you can!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ/viewform?embedded=true" width="640" height="1757" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
