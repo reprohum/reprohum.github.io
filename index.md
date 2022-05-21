@@ -10,6 +10,8 @@ header:
   overlay_image: /assets/images/reprohum_banner_orig.jpg
 ---
 
+Announcement: More information soon. {: .notice--danger}
+
 The key goals of the ReproHum project are the development of a methodological framework for testing the reproducibility of human evaluations in NLP, and of a multi-lab paradigm for carrying out such tests in practice, carrying out the first study of this kind in NLP.
 
 Over the course of the project, we will (i) systematically diagnose the extent of the human evaluation reproducibility problem in NLP and survey related current work to address it; (ii) develop the theoretical and methodological underpinnings for reproducibility testing in NLP; (iii) test the suitability of the shared-task paradigm (uniformly popular across NLP fields) for reproducibility testing; (iv) create a design for multi-test reproducibility studies, and run the ReproHum study, an international large-scale multi-lab effort conducting 50+ individual, coordinated reproduction attempts on human evaluations in NLP from the past 10 years; and (v) nurture and build international consensus regarding how to address the reproducibility crisis, via technical meetings and growing an international network of researchers.
