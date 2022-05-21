@@ -20,9 +20,9 @@ Funded by EPSRC UK under grant No. [EP/V05645X/1](https://gow.epsrc.ukri.org/NGB
 
 ## The ReproHum Survey of NLP and ML researchers' experience and views of reproducibility
 
-Take part [here](https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ).
+Take part [here](https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ/viewform?usp=sf_link).
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ/viewform?usp=sf_link">
   <img src="/assets/images/ReproHum_Survey_Flier.jpeg" />
 </a>
 
