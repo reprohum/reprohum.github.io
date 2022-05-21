@@ -10,10 +10,10 @@ header:
   overlay_image: /assets/images/reprohum_banner_orig.jpg
 ---
 
-<!-- # The ReproHum Survey of NLP and ML researchers' experience and views of reproducibility
-We are currently running a survey of NLP and ML researchers' experience and views of reproducibility.
+# The ReproHum Survey of NLP and ML researchers' experience and views of reproducibility
+We are currently running a survey of NLP and ML researchers' experience and views of reproducibility and would be most grateful if you can spare a short amount of time to take it.
 
-The survey can be taken [here](https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ/closedform). -->
+The survey can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ).
 
 # ReproHum Project
 
