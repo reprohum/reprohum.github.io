@@ -23,7 +23,7 @@ function init(){
 window.addEventListener("load", init, false);
 </script>
 
-
+If the survey form does not display properly below, you can access it [here](https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ/viewform?usp=sf_link) instead.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfg1C2seS6ciHGUFdiksf3ofeMzBOtEz7HIoBw5u5YKJIxPMQ/viewform?embedded=true" width="960" height="2635" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
