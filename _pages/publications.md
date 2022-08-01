@@ -10,7 +10,7 @@ header:
 ---
 
 ## Publications
-Listed below are references for publications that are related to the ReproHum project;
+Listed below are references for publications that are related to the ReproHum project (having been down as part of the project, or recent related work on reproducibility by members of the project team):
 
 [A Metrological Perspective on Reproducibility in NLP](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=trwwiW4AAAAJ&sortby=pubdate&authuser=2&citation_for_view=trwwiW4AAAAJ:N5tVd3kTz84C)
 A Belz (2022)
