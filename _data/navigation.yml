@@ -3,3 +3,5 @@ main:
     url: /survey/
   - title: "Project Team"
     url: /contact/
+  - title: "Publications"
+    url: /publications/
