@@ -15,7 +15,7 @@ This page contains information for authors of papers that we wish to include in 
 
 To identify candidate papers for inclusion in our study, we created a shortlist of papers from both ACL and TACL proceedings between 2018 and 2022 that include human evaluations of NLP system outputs.
 
-We will be reproducing only the human evaluation; we will not be recreating systems.  Therefore, we require the following information from the original authors before we can include the paper in our study:
+We will be reproducing only the human evaluations; we will not be recreating systems.  Therefore, we require the following information from the original authors before we can include the paper in our study:
 
 1. The system outputs that were shown to participants (i.e., a spreadsheet or other files containing the outputs that were shown).
 2. The interface, form, or document that participants completed; the exact document or form that was used would be ideal, although we can recreate the interface if provided with details.
