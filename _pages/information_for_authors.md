@@ -22,7 +22,7 @@ We will be reproducing only the human evaluations; we will not be recreating sys
 3. Details on the number and type of participants (students, researchers, Mechanical Turk, etc.) that took part in the study.
 4. The total cost of the original human evaluation(s), or a rough estimate if you do not have the exact figure.
 
-Some of this information might already be in your paper or supplementary materials, although when reading the papers we found that one or more pieces of information was not available in most cases.  Therefore, we would be most grateful if you could provide or confirm the above.  We do not require full details immediately in order to continue considering a paper for our study, but we do need to know as soon as possible if the information to be made available at all, and if so, how long that might take.
+Some of this information might already be in your paper or supplementary materials, although when reading the papers we found that one or more pieces of information was not available in most cases.  Therefore, we would be most grateful if you could provide or confirm the above.  We do not require full details immediately in order to continue considering a paper for our study, but we do need to know as soon as possible if the information can be made available at all, and if so, how long that might take.
 
 We greatly appreciate your time reading this, and it would be very helpful if you could let us know whether you have the above information.  Alternatively, it would also be helpful if you can forward the email that we sent you about the paper to another author who might have the information.
 
