@@ -11,7 +11,7 @@ header:
 
 ## Information for authors of papers that we would like to reproduce
 
-This page contains information for authors of papers that we wish to include in our multi-lab study.  We have sent emails to lead authors of all such papers.  We need to select 15-20 papers to be reproduced and each selected paper will have one or more of its human evaluation experiments reproduced by two of the 22 partner labs that will be running reproduction experiments as part of the ReproHum multi-lab study.
+This page contains information for authors of papers that we wish to include in our multi-lab study.  We have sent emails to lead authors of all such papers.  We need to select 15-20 papers to be reproduced and each selected paper will have one or more of its human evaluation experiments reproduced by two of the 22 partner labs that will be running reproduction experiments as part of the [ReproHum](https://reprohum.github.io) multi-lab study.
 
 To identify candidate papers for inclusion in our study, we created a shortlist of papers from both ACL and TACL proceedings between 2018 and 2022 that include human evaluations of NLP system outputs.
 
