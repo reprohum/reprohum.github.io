@@ -1,6 +1,6 @@
 ---
 title: "Information for authors"
-permalink: /publications/
+permalink: /information_for_authors/
 layout: single
 classes: wide
 header:
