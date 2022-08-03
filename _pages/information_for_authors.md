@@ -27,3 +27,5 @@ Some of this information might already be in your paper or supplementary materia
 We greatly appreciate your time reading this, and it would be very helpful if you could let us know whether you have the above information.  Alternatively, it would also be helpful if you can forward the email that we sent you about the paper to another author who might have the information.
 
 If you have any questions, please [contact us](https://reprohum.github.io/contact).
+
+Thank you.
