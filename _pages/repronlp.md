@@ -1,6 +1,6 @@
 ---
 title: "ReproNLP 2023"
-permalink: /repronlp2023/
+permalink: /repronlp/
 layout: single
 classes: wide
 header:
@@ -10,3 +10,5 @@ header:
 ---
 
 ### Placeholder
+
+some text
